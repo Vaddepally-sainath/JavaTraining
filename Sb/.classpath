@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="LeaveManagementSystem/src/main/java"/>
+	<classpathentry kind="src" path="LeaveManagementSystem/src/test/java"/>
+	<classpathentry kind="src" path="SbDemo/src/main/java"/>
+	<classpathentry kind="src" path="SbDemo/src/test/java"/>
+	<classpathentry kind="src" path="SbDemo1/src/main/java"/>
+	<classpathentry kind="src" path="SbDemo1/src/test/java"/>
+	<classpathentry kind="src" path="SbJdbcDemo/src/main/java"/>
+	<classpathentry kind="src" path="SbJdbcDemo/src/test/java"/>
+	<classpathentry kind="lib" path="LeaveManagementSystem/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="SbDemo/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="SbDemo1/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="SbJdbcDemo/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="LeaveManagementSystem/target/classes"/>
+</classpath>
